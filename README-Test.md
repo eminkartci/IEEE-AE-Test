@@ -1,3 +1,3 @@
- ## Baslik
+ ## Git Eğitimi
  ---
- Deneme Yazisi
+ Git Kullanımı hakkında basit bir giriş
